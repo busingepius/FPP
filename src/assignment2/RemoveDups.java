@@ -32,6 +32,7 @@ public class RemoveDups {
                     break;
                 }
             }
+
             if (countDups == 0) arr[index++] = array[i];
         }
         System.out.println(Arrays.toString(arr));

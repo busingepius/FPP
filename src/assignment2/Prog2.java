@@ -39,7 +39,6 @@ public class Prog2 {
         for(var str : records.split(":")){
             var s =  str.split(",");
                 System.out.println(s[0]);
-
         }
     }
 }

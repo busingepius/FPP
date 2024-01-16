@@ -16,6 +16,7 @@ public class Prog5 {
     }
     public int[] combine(int[] a, int[] b){
         int[] newA = new int[a.length + b.length];
+
         int count = 0;
         for (int item: a){
             newA[count++] = item;
