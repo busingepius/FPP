@@ -6,7 +6,7 @@
  * Time : 16:03
  * Project Name : assignment2
  */
-package assignment2;
+package assignment3;
 
 public class Prog4 {
     public static void main(String[] args) {

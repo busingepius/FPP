@@ -6,7 +6,7 @@
  * Time : 16:09
  * Project Name : assignment2
  */
-package assignment2;
+package assignment3;
 
 import java.util.Arrays;
 

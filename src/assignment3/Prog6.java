@@ -6,7 +6,7 @@
  * Time : 15:53
  * Project Name : assignment2
  */
-package assignment2;
+package assignment3;
 
 
 public class Prog6 {
