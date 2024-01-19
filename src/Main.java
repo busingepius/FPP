@@ -154,10 +154,12 @@ public class Main {
 //
 //        Arrays.sort(luckNumbers);
 //        System.out.println(Arrays.toString(luckNumbers));
-        String[][] teams = {
-                {"Joe","Bob","Frank","Steve"},
-                {"Jon","Tom","David","Ralph"},
-                {"Tim","Bev","Susan","Dennis"},
-        };
+//        String[][] teams = {
+//                {"Joe","Bob","Frank","Steve"},
+//                {"Jon","Tom","David","Ralph"},
+//                {"Tim","Bev","Susan","Dennis"},
+//        };
+
+
     }
 }
