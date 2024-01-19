@@ -16,7 +16,7 @@ public class Student {
         System.out.println("Hello");
     }
     static{
-        // static instance block
+        // static block
         schoolName="Fairfield High";
     }
     public Student(String name){
@@ -29,4 +29,5 @@ public class Student {
     public void setName(String name){
         this.name = name;
     }
+
 }

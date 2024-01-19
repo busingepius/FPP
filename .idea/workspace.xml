@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment three">
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3_2/problem1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3_2/problem1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3_2/problem1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3_2/problem2/HeartRates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3_2/problem3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3_2/problem3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3_2/problem3/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3_2/problem3/Triangle.java" afterDir="false" />
+    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 3-2">
+      <change afterPath="$PROJECT_DIR$/src/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3b/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3b/questionTwo/ClassTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3b/questionTwo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -50,7 +45,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.DateExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnumDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HeartRates.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operation.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
@@ -92,7 +90,12 @@
       <workItem from="1705606187826" duration="1409000" />
       <workItem from="1705611376164" duration="1572000" />
       <workItem from="1705620736975" duration="3891000" />
-      <workItem from="1705630147102" duration="3677000" />
+      <workItem from="1705630147102" duration="4597000" />
+      <workItem from="1705664270096" duration="126000" />
+      <workItem from="1705671250433" duration="75000" />
+      <workItem from="1705681969025" duration="3328000" />
+      <workItem from="1705692350549" duration="2264000" />
+      <workItem from="1705701592106" duration="2706000" />
     </task>
     <task id="LOCAL-00001" summary="assignment two">
       <option name="closed" value="true" />
@@ -110,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705534324421</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="assignment 3-2">
+      <option name="closed" value="true" />
+      <created>1705635258345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705635258345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +141,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="assignment two" />
     <MESSAGE value="assignment three" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment three" />
+    <MESSAGE value="assignment 3-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 3-2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
