@@ -10,12 +10,14 @@ package assignment4;
 
 public class ReverseDigit {
     public static void main(String[] args) {
-
+        reverseDigits(720);
     }
-    public static void reverseDigits(int number){
-        if (number <=0 ){
+
+    public static void reverseDigits(int number) {
+        if (number <= 0) {
             return;
         }
-
+        System.out.println(number % 10);
+        reverseDigits(number / 10);
     }
 }
