@@ -10,7 +10,7 @@ package assignment4;
 
 public class NumberOfIntegers {
     public static void main(String[] args) {
-        System.out.println(numberOfIntegers(100345));
+        System.out.println(numberOfIntegers(100));
     }
 
     public static int numberOfIntegers(int n) {

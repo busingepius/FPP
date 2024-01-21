@@ -10,7 +10,7 @@ package assignment4;
 
 public class SumOfArray {
     public static void main(String[] args) {
-        System.out.println(sumOfArray(new int[]{1,2,3,4},0));
+        System.out.println(sumOfArray(new int[]{1,2},0));
     }
     public static int sumOfArray(int[] array, int currentIndex){
         if(currentIndex == array.length || currentIndex > array.length){

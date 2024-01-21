@@ -7,7 +7,6 @@
     <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assignment4/NumberOfIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment4/NumberOfIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment4/ReverseDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment4/ReverseDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assignment4/SumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment4/SumOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +113,7 @@
       <workItem from="1705783029947" duration="1210000" />
       <workItem from="1705784280085" duration="2868000" />
       <workItem from="1705789193509" duration="70000" />
-      <workItem from="1705802246546" duration="2960000" />
+      <workItem from="1705802246546" duration="4860000" />
     </task>
     <task id="LOCAL-00001" summary="assignment two">
       <option name="closed" value="true" />
@@ -164,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705803426953</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="assignment 4">
+      <option name="closed" value="true" />
+      <created>1705805409067</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705805409067</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
