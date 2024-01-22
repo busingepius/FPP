@@ -1,6 +1,4 @@
-import java.util.Arrays;
-import java.util.Random;
-import java.util.Scanner;
+
 
 /**
  * Created by: Businge Pius
@@ -53,7 +51,7 @@ public class Main {
 //
 //        System.out.println("a".compareTo("b")); // A = 65, a= 97 and B = 66, b = 98 Hence 97 - 98 = -1
 //        System.out.println("b".compareTo("a")); // 98 - 97 = 1
-//        System.out.println("a".compareTo("a"));
+//        System.out.println("a".compareTo("a")); // 97 - 97 = 0
 //
 //        int sales = 1;
 //        int target = 2;
@@ -159,7 +157,7 @@ public class Main {
 //                {"Jon","Tom","David","Ralph"},
 //                {"Tim","Bev","Susan","Dennis"},
 //        };
-
+//        System.out.println("Hello World!");
 
     }
 }
