@@ -104,6 +104,7 @@ class Secretary extends DeptEmployee {
                 total += employee.computeSalary();
             }
             System.out.println("Total salary: "+total);
+            sc.close();
         }
 
     }
