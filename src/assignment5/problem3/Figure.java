@@ -1,4 +1,4 @@
-package assignment5.problem5;
+package assignment5.problem3;
 
 public interface Figure {
     void getFigure();
