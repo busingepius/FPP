@@ -173,5 +173,6 @@ public class Main {
         Period period = Period.between(dateParsed,LocalDate.now());
         int numberOfYears = period.getDays();
         System.out.println(numberOfYears);
+        System.out.println("\\");
     }
 }
