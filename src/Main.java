@@ -1,4 +1,6 @@
-
+import java.time.LocalDate;
+import java.time.Period;
+import java.time.format.DateTimeFormatter;
 
 /**
  * Created by: Businge Pius
@@ -159,5 +161,17 @@ public class Main {
 //        };
 //        System.out.println("Hello World!");
 
+        String number = "28";
+        int n = Integer.parseInt(number);
+        Integer value = Integer.valueOf(n);
+        System.out.println(n);
+
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("YYYY-MM-DD");
+        LocalDate dateParsed = LocalDate.parse("2014-12-04");
+//        LocalDate formattedDate = dateParsed.format(formatter);
+        LocalDate oldDate = LocalDate.of(2014,12,04);
+        Period period = Period.between(dateParsed,LocalDate.now());
+        int numberOfYears = period.getDays();
+        System.out.println(numberOfYears);
     }
 }
