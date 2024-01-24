@@ -8,17 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 5 - Day 3">
-      <change afterPath="$PROJECT_DIR$/src/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/anonymousInnerClass/AnonymousExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/anonymousInnerClass/AnonymousExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/anonymousInnerClass/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/localInnerClass/G.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/memberInnerClass/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/memberInnerClass/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/memberInnerClass/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/memberInnerClass/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/staticNestedClass/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/MyTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/lambdaExpressions/LambdaExpressionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/lambdaExpressions/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture6/anonymousInnerClass/AnonymousExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture6/anonymousInnerClass/AnonymousExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture6/anonymousInnerClass/Parent.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +91,7 @@
     "Application.HeartRates.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyClass.executor": "Run",
+    "Application.MyTable.executor": "Run",
     "Application.NumberOfIntegers.executor": "Run",
     "Application.Operation.executor": "Run",
     "Application.OuterClass.executor": "Run",
@@ -108,6 +104,7 @@
     "Application.assignment5.problem5.Main.executor": "Run",
     "Application.lecture5.Main.executor": "Run",
     "Application.lecture5.section5.Main.executor": "Run",
+    "Application.personData.executor": "Run",
     "Docker.src/Dockerfile.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -233,6 +230,8 @@
       <workItem from="1706046293807" duration="2182000" />
       <workItem from="1706096900780" duration="68000" />
       <workItem from="1706112316097" duration="7239000" />
+      <workItem from="1706126716436" duration="1862000" />
+      <workItem from="1706133873415" duration="4304000" />
     </task>
     <task id="LOCAL-00001" summary="assignment two">
       <option name="closed" value="true" />

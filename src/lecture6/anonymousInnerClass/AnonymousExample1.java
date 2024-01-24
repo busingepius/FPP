@@ -44,3 +44,14 @@ public class AnonymousExample1 {
         Child ch = new Child();
     }
 }
+
+class Parent {
+    String val;
+    Parent(String v){this.val = v;}
+    void methodA(){
+        System.out.println("A");
+    }
+    void methodB(){
+        System.out.println("B");
+    }
+}
