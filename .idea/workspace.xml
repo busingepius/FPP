@@ -7,13 +7,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 5 - Day 3">
-      <change afterPath="$PROJECT_DIR$/src/assignment6/MyTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/lambdaExpressions/LambdaExpressionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture6/lambdaExpressions/Person.java" afterDir="false" />
+    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 6">
+      <change afterPath="$PROJECT_DIR$/first.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pod.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/problem1/MyPersonList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/problem1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/problem2/EmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/problem2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/problem2/Problem2_Instruction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/problem2/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/problem2/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/problem2/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/problem3/Marketing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/Lecture6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/MinimumSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/MyStringList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swing/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swing/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture6/anonymousInnerClass/AnonymousExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture6/anonymousInnerClass/AnonymousExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture6/anonymousInnerClass/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture5/MyConcrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture5/MyConcrete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture6/memberInnerClass/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture6/memberInnerClass/A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +44,7 @@
         <option value="Enum" />
         <option value="Dockerfile" />
         <option value="Interface" />
+        <option value="Kubernetes Pod" />
         <option value="Class" />
       </list>
     </option>
@@ -75,7 +94,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2b0mpiG7GYcM09x9eV7L7jUoKXs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -89,19 +110,28 @@
     "Application.Driver.executor": "Run",
     "Application.EnumDemo.executor": "Run",
     "Application.HeartRates.executor": "Run",
+    "Application.Lambda.executor": "Run",
+    "Application.Launcher.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MinimumSort.executor": "Run",
     "Application.MyClass.executor": "Run",
+    "Application.MyPersonList.executor": "Run",
+    "Application.MyStringList.executor": "Run",
     "Application.MyTable.executor": "Run",
     "Application.NumberOfIntegers.executor": "Run",
     "Application.Operation.executor": "Run",
     "Application.OuterClass.executor": "Run",
     "Application.ReverseDigit.executor": "Run",
+    "Application.Streams.executor": "Run",
     "Application.SumOfArray.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.assignment5.Main.executor": "Run",
     "Application.assignment5.problem2.Main.executor": "Run",
     "Application.assignment5.problem4.Main.executor": "Run",
     "Application.assignment5.problem5.Main.executor": "Run",
+    "Application.assignment8.problem2.Main.executor": "Run",
+    "Application.assignment8.problem3.Main.executor": "Run",
+    "Application.lambda.Main.executor": "Run",
     "Application.lecture5.Main.executor": "Run",
     "Application.lecture5.section5.Main.executor": "Run",
     "Application.personData.executor": "Run",
@@ -113,14 +143,15 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/IdeaProjects/docker/Dockerfile",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/FPP/src/lecture6",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/USER/IdeaProjects/FPP/src/Main.java",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.intellij.kubernetes.view.ui.settings.KubernetesViewConfigurable",
+    "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -131,7 +162,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\FPP\src\lecture6" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\FPP\src\assignment8\problem2" />
       <recent name="C:\Users\USER\IdeaProjects\FPP\src\docker" />
       <recent name="C:\Users\USER\IdeaProjects\FPP\src\assignment4" />
     </key>
@@ -140,19 +175,6 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FPP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture5.section5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture5.section5.Main" />
-      <module name="FPP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture5.section5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,7 +195,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lecture5.section5.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Docker.src/Dockerfile" />
       </list>
@@ -231,7 +252,25 @@
       <workItem from="1706096900780" duration="68000" />
       <workItem from="1706112316097" duration="7239000" />
       <workItem from="1706126716436" duration="1862000" />
-      <workItem from="1706133873415" duration="4304000" />
+      <workItem from="1706133873415" duration="5086000" />
+      <workItem from="1706182338143" duration="6484000" />
+      <workItem from="1706199130985" duration="1064000" />
+      <workItem from="1706211226533" duration="342000" />
+      <workItem from="1706215476493" duration="56000" />
+      <workItem from="1706273171270" duration="6254000" />
+      <workItem from="1706285279556" duration="3703000" />
+      <workItem from="1706299707484" duration="4162000" />
+      <workItem from="1706319717944" duration="971000" />
+      <workItem from="1706354117339" duration="2391000" />
+      <workItem from="1706385037335" duration="5327000" />
+      <workItem from="1706393592444" duration="2338000" />
+      <workItem from="1706442304771" duration="6364000" />
+      <workItem from="1706470178326" duration="6214000" />
+      <workItem from="1706485134326" duration="3009000" />
+      <workItem from="1706498050370" duration="496000" />
+      <workItem from="1706550133173" duration="3446000" />
+      <workItem from="1706556759536" duration="3504000" />
+      <workItem from="1706566269025" duration="8055000" />
     </task>
     <task id="LOCAL-00001" summary="assignment two">
       <option name="closed" value="true" />
@@ -329,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706048167637</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="assignment 6">
+      <option name="closed" value="true" />
+      <created>1706138668410</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706138668410</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +404,8 @@
     <MESSAGE value="assignment 5" />
     <MESSAGE value="lecture 6" />
     <MESSAGE value="assignment 5 - Day 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment 5 - Day 3" />
+    <MESSAGE value="assignment 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

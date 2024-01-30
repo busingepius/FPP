@@ -8,13 +8,13 @@
  */
 package lecture5;
 
-public class MyConcrete extends MyAbstract{
+final public class MyConcrete extends MyAbstract{
     MyConcrete(int value){
         super(value);
     }
 
     @Override
-    public void abstractMethod(){
+    public final void abstractMethod(){
         System.out.println("Implementation of the abstract method");
     }
 

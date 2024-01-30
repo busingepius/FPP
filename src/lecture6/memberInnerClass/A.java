@@ -10,7 +10,8 @@ package lecture6.memberInnerClass;
 
 // class can only be public or default
 public class A {
+    int d= B.x;
     class B{
-
+        static int x = 8;
     }
 }
