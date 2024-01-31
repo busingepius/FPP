@@ -48,6 +48,7 @@ public class MinimumSort {
                 min = arr[k];
             }
         }
+                System.out.println(pos);
         return pos;
     }
 

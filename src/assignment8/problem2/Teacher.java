@@ -22,6 +22,6 @@ public final class Teacher implements EmployeeData {
 
 	@Override
 	public double currentSalary(){
-		return salary;
+		return getSalary();
 	}
 }
