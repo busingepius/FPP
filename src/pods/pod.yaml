@@ -11,4 +11,4 @@ spec:
       image: nginx
 #    - name: busybox
 #      image: busybox
-#  restartPolicy: Always
+  restartPolicy: Never

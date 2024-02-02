@@ -7,22 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 6">
-      <change afterPath="$PROJECT_DIR$/demo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pods/redis.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replicasets/replicaset.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment9/ArrayQueueImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment9/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/LinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/MyDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/MyDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/MyLinkedList.java" afterDir="false" />
+    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 9">
+      <change afterPath="$PROJECT_DIR$/src/lecture10/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replicasets/rc-definition.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pods/pod.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment8/problem2/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment8/problem2/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/MinimumSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/MinimumSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pods/pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pods/pod.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replicasets/replicaset.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,6 +247,10 @@
       <workItem from="1706717804999" duration="3886000" />
       <workItem from="1706731540992" duration="4847000" />
       <workItem from="1706737374444" duration="467000" />
+      <workItem from="1706739852519" duration="66000" />
+      <workItem from="1706752924302" duration="1227000" />
+      <workItem from="1706785718916" duration="6736000" />
+      <workItem from="1706837541994" duration="1399000" />
     </task>
     <task id="LOCAL-00001" summary="assignment two">
       <option name="closed" value="true" />
@@ -391,7 +385,8 @@
     <MESSAGE value="lecture 6" />
     <MESSAGE value="assignment 5 - Day 3" />
     <MESSAGE value="assignment 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment 6" />
+    <MESSAGE value="assignment 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 9" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
