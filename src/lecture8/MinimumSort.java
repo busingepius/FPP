@@ -9,6 +9,7 @@
 package lecture8;
 
 import java.util.Arrays;
+import java.util.Objects;
 
 public class MinimumSort {
     int[] arr;
@@ -42,7 +43,7 @@ public class MinimumSort {
     int minpos(int i, int j) {
         int pos = i;
         int min = arr[i];
-        for (int k = i + 1; k < j; k++) {
+        for (int k = i + 1; k <= j; k++) {
             if (arr[k] < min) {
                 pos = k;
                 min = arr[k];
@@ -53,6 +54,7 @@ public class MinimumSort {
     }
 
     public static void main(String[] args) {
+
         System.out.println(Arrays.toString(new MinimumSort().arr));
     }
 }

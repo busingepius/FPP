@@ -45,7 +45,7 @@ public class ArrayStack {
         return a[top];
     }
 
-    //size -> returns number of items in the stack
+    // size -> returns number of items in the stack
     public int size() {
         return top + 1;
     }

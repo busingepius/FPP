@@ -1,3 +1,5 @@
+package lectures;
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Calendar;
@@ -33,10 +35,10 @@ public class DateExample {
         System.out.println("Calendar time: " + cal.getTime());
         System.out.println("Calendar time in milliseconds: " + cal.getTimeInMillis());
         cal.setTime(d2);
-        System.out.println("Month od d2: " + cal.get(Calendar.MONTH));
+        System.out.println("lectures.Month od d2: " + cal.get(Calendar.MONTH));
         System.out.println("Day of the month d2: " + cal.get(Calendar.DAY_OF_MONTH));
         cal.set(Calendar.MONTH, Calendar.JANUARY);
-        System.out.println("Month of d2 after change: " + cal.get(Calendar.MONTH));
+        System.out.println("lectures.Month of d2 after change: " + cal.get(Calendar.MONTH));
 
         System.out.println("-".repeat(30));
 

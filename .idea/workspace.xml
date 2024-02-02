@@ -7,17 +7,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 9">
-      <change afterPath="$PROJECT_DIR$/src/lecture10/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replicasets/rc-definition.yaml" afterDir="false" />
+    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 10">
+      <change afterPath="$PROJECT_DIR$/src/assignment11/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment11/Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment11/Standing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment11/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturer11/HashtableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturer11/MyHashtable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pods/pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pods/pod.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replicasets/replicaset.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Assignment1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/DateExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/EnumDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Immutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Immutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/MinimumSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/MinimumSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/ArrayStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EndpointsView">
+    <option name="showSidePanel" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,73 +103,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AnonymousExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnonymousExample2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompanyReflection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnumDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HeartRates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lambda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedQueue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyDoublyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyPersonList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyStringList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfIntegers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OuterClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assignment5.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assignment5.problem2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assignment5.problem4.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assignment5.problem5.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assignment8.problem2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assignment8.problem3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lambda.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lecture5.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lecture5.section5.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.personData.executor&quot;: &quot;Run&quot;,
-    &quot;Docker.src/Dockerfile.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/IdeaProjects/FPP/src/lecture6&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USER/IdeaProjects/FPP/src/Main.java&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnonymousExample.executor": "Run",
+    "Application.AnonymousExample2.executor": "Run",
+    "Application.ArrayStack.executor": "Run",
+    "Application.BinarySearchTree.executor": "Run",
+    "Application.CompanyReflection.executor": "Run",
+    "Application.DateExample.executor": "Run",
+    "Application.Driver.executor": "Run",
+    "Application.EnumDemo.executor": "Run",
+    "Application.HashtableDemo.executor": "Run",
+    "Application.HeartRates.executor": "Run",
+    "Application.Lambda.executor": "Run",
+    "Application.Launcher.executor": "Run",
+    "Application.LinkedQueue.executor": "Run",
+    "Application.LinkedStack.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MinimumSort.executor": "Run",
+    "Application.MyClass.executor": "Run",
+    "Application.MyDoublyLinkedList.executor": "Run",
+    "Application.MyHashtable.executor": "Run",
+    "Application.MyLinkedList.executor": "Run",
+    "Application.MyPersonList.executor": "Run",
+    "Application.MyStringList.executor": "Run",
+    "Application.MyTable.executor": "Run",
+    "Application.NumberOfIntegers.executor": "Run",
+    "Application.Operation.executor": "Run",
+    "Application.OuterClass.executor": "Run",
+    "Application.ReverseDigit.executor": "Run",
+    "Application.Streams.executor": "Run",
+    "Application.SumOfArray.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.assignment5.Main.executor": "Run",
+    "Application.assignment5.problem2.Main.executor": "Run",
+    "Application.assignment5.problem4.Main.executor": "Run",
+    "Application.assignment5.problem5.Main.executor": "Run",
+    "Application.assignment8.problem2.Main.executor": "Run",
+    "Application.assignment8.problem3.Main.executor": "Run",
+    "Application.lambda.Main.executor": "Run",
+    "Application.lecture5.Main.executor": "Run",
+    "Application.lecture5.section5.Main.executor": "Run",
+    "Application.personData.executor": "Run",
+    "Docker.src/Dockerfile.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/FPP/src/assignment11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/USER/IdeaProjects/FPP/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;,
-      &quot;mongo&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mongo"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\FPP\src\assignment11" />
       <recent name="C:\Users\USER\IdeaProjects\FPP\src\lecture6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -250,7 +275,10 @@
       <workItem from="1706739852519" duration="66000" />
       <workItem from="1706752924302" duration="1227000" />
       <workItem from="1706785718916" duration="6736000" />
-      <workItem from="1706837541994" duration="1399000" />
+      <workItem from="1706837541994" duration="2384000" />
+      <workItem from="1706874070281" duration="7615000" />
+      <workItem from="1706891253917" duration="5305000" />
+      <workItem from="1706903581074" duration="8546000" />
     </task>
     <task id="LOCAL-00001" summary="assignment two">
       <option name="closed" value="true" />
@@ -356,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706138668410</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="assignment 10">
+      <option name="closed" value="true" />
+      <created>1706842638629</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706842638629</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +422,8 @@
     <MESSAGE value="assignment 5 - Day 3" />
     <MESSAGE value="assignment 6" />
     <MESSAGE value="assignment 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment 9" />
+    <MESSAGE value="assignment 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 10" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

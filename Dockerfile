@@ -8,5 +8,5 @@ COPY out/production/FPP/ /appDir
 #Set the directory for executing future commands
 WORKDIR /appDir
 
-#Run the Main class
-CMD java Main
+#Run the lectures.Main class
+CMD java lectures.Main

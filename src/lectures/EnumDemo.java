@@ -1,3 +1,4 @@
+package lectures;
 
 /**
  * Created by: Businge Pius
@@ -18,7 +19,7 @@ public class EnumDemo{
         int res = x.compareTo(12);
         System.out.println(res);
         for(Month mon: Month.values()){
-            System.out.println("Month name: "+mon.name()+" and position: "+mon.ordinal());
+            System.out.println("lectures.Month name: "+mon.name()+" and position: "+mon.ordinal());
         }
     }
 }

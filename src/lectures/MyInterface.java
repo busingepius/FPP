@@ -1,3 +1,5 @@
+package lectures;
+
 /**
  * Created by: Businge Pius
  * Company : Gegabox

@@ -9,6 +9,8 @@
 package lecture10;
 
 
+import javax.swing.tree.TreeNode;
+
 public class BinarySearchTree {
     TreeNode root;
 
@@ -62,6 +64,9 @@ public class BinarySearchTree {
             insertRec(root, val);
         }
     }
+//    public void insert(int val) {
+//           root = insertRec(root, val);
+//    }
 
     public TreeNode insertRec(TreeNode node, int val) {
         if (node == null) {
@@ -76,12 +81,15 @@ public class BinarySearchTree {
         return node;
     }
 
-    public void inOrderTraverse(TreeNode root) {
-        if (root != null) {
+    public void inOrderTraverse(){
+        inOrderTraverse(root);
+    }
+    private void inOrderTraverse(TreeNode root) {
+        if (root == null) {return;}
             inOrderTraverse(root.left);
             System.out.print(root.val + " ");
             inOrderTraverse(root.right);
-        }
+
     }
 
     public void preOrderTraverse(TreeNode root) {
@@ -100,6 +108,9 @@ public class BinarySearchTree {
         }
     }
 
+    public TreeNode deleteNode(int key){
+        return deleteNode(root,key);
+    }
     public TreeNode deleteNode(TreeNode root, int key) {
         // return null if root is null
         if (root == null) {
@@ -132,11 +143,11 @@ public class BinarySearchTree {
 
         if (root.val < key) {
             // find target in right subtree
-            // if root->val < key
+            // if root.val < key
             root.right = deleteNode(root.right, key);
         } else {
             // find target in left subtree
-            // if root->val < key
+            // if root.val < key
             root.left = deleteNode(root.left, key);
         }
         return root;
@@ -155,5 +166,17 @@ public class BinarySearchTree {
         return "BinarySearchTree{" +
                 "root=" + root.val +
                 "}";
+    }
+
+    public static void main(String[] args) {
+        BinarySearchTree bst = new BinarySearchTree();
+        bst.insert(1);
+        bst.insert(2);
+        bst.insert(3);
+        bst.insert(4);
+        bst.insert(5);
+        bst.deleteNode(3);
+        bst.inOrderTraverse();
+        System.out.println(bst);
     }
 }
