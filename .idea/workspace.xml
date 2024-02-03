@@ -7,30 +7,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 10">
-      <change afterPath="$PROJECT_DIR$/src/assignment11/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment11/Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment11/Standing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment11/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment11/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecturer11/HashtableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecturer11/MyHashtable.java" afterDir="false" />
+    <list default="true" id="1665679c-0352-4bd8-a4da-bc042a7dbb8e" name="Changes" comment="assignment 11">
+      <change afterPath="$PROJECT_DIR$/src/assignment12/CustomerAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment12/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture12/FinallyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture12/UserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturer11/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturer11/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecturer11/HashSetDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Assignment1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/DateExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/EnumDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Immutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Immutable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture10/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/BinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture8/MinimumSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/MinimumSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecturer11/HashtableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecturer11/HashtableDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,9 +98,14 @@
     "Application.ArrayStack.executor": "Run",
     "Application.BinarySearchTree.executor": "Run",
     "Application.CompanyReflection.executor": "Run",
+    "Application.CustomerAccount.executor": "Run",
     "Application.DateExample.executor": "Run",
     "Application.Driver.executor": "Run",
+    "Application.Employee.executor": "Run",
     "Application.EnumDemo.executor": "Run",
+    "Application.FinallyTest.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
+    "Application.HashSetDemo.executor": "Run",
     "Application.HashtableDemo.executor": "Run",
     "Application.HeartRates.executor": "Run",
     "Application.Lambda.executor": "Run",
@@ -132,6 +125,7 @@
     "Application.Operation.executor": "Run",
     "Application.OuterClass.executor": "Run",
     "Application.ReverseDigit.executor": "Run",
+    "Application.Score.executor": "Run",
     "Application.Streams.executor": "Run",
     "Application.SumOfArray.executor": "Run",
     "Application.Test.executor": "Run",
@@ -153,7 +147,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/IdeaProjects/FPP/src/assignment11",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/FPP/src/lecturer11/api",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -173,6 +167,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\FPP\src\lecturer11\api" />
+      <recent name="C:\Users\USER\IdeaProjects\FPP\src\lecturer11" />
       <recent name="C:\Users\USER\IdeaProjects\FPP\src\assignment11" />
       <recent name="C:\Users\USER\IdeaProjects\FPP\src\lecture6" />
     </key>
@@ -278,7 +274,10 @@
       <workItem from="1706837541994" duration="2384000" />
       <workItem from="1706874070281" duration="7615000" />
       <workItem from="1706891253917" duration="5305000" />
-      <workItem from="1706903581074" duration="8546000" />
+      <workItem from="1706903581074" duration="8848000" />
+      <workItem from="1706926772394" duration="11236000" />
+      <workItem from="1706980885213" duration="1260000" />
+      <workItem from="1706995355924" duration="4444000" />
     </task>
     <task id="LOCAL-00001" summary="assignment two">
       <option name="closed" value="true" />
@@ -392,7 +391,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706842638629</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="assignment 11">
+      <option name="closed" value="true" />
+      <created>1706916713856</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706916713856</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +430,8 @@
     <MESSAGE value="assignment 6" />
     <MESSAGE value="assignment 9" />
     <MESSAGE value="assignment 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment 10" />
+    <MESSAGE value="assignment 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 11" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

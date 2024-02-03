@@ -49,12 +49,28 @@ public class MinimumSort {
                 min = arr[k];
             }
         }
-                System.out.println(pos);
         return pos;
     }
 
     public static void main(String[] args) {
 
-        System.out.println(Arrays.toString(new MinimumSort().arr));
+        int[] a = new MinimumSort().arr;
+        System.out.println(binarySearch(a, 23));
+    }
+
+    public static int binarySearch(int[] arr, int value) {
+        int beg = 0;
+        int end = arr.length - 1;
+        while (beg <= end) {
+            int middle = (beg + end) / 2;
+            if (arr[middle] == value) {
+                return arr[middle];
+            } else if (arr[middle] < value) {
+                beg = middle + 1;
+            } else {
+                end = middle - 1;
+            }
+        }
+        return -1;
     }
 }

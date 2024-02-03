@@ -141,14 +141,14 @@ public class BinarySearchTree {
 
         }
 
-        if (root.val < key) {
+        if (root.val > key) {
             // find target in right subtree
             // if root.val < key
-            root.right = deleteNode(root.right, key);
+            root.left = deleteNode(root.left, key);
         } else {
             // find target in left subtree
             // if root.val < key
-            root.left = deleteNode(root.left, key);
+            root.right = deleteNode(root.right, key);
         }
         return root;
     }
@@ -176,6 +176,7 @@ public class BinarySearchTree {
         bst.insert(4);
         bst.insert(5);
         bst.deleteNode(3);
+        bst.deleteNode(4);
         bst.inOrderTraverse();
         System.out.println(bst);
     }

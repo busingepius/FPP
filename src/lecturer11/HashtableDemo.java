@@ -29,6 +29,7 @@ public class HashtableDemo {
         tm.remove(4);
         tm.replace(5, new Empl(235, "Jony", 3200));
         System.out.println(tm);
+
     }
 }
 
